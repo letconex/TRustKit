@@ -1,4 +1,0 @@
-﻿#NAME "DICTCC DE-RO"
-#INDEX_LANGUAGE "German"
-#CONTENTS_LANGUAGE "Romanian"
-
