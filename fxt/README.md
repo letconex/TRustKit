@@ -1,6 +1,7 @@
 # fxt
 
-**fxt** is a command-line tool for local machine translation using [Firefox Translate](https://github.com/mozilla/firefox-translations) models. It runs entirely offline on your machine, requiring no internet connection or API keys.
+**fxt** is a command-line tool for local machine translation using [Firefox Translate](https://github.com/mozilla/firefox-translations) models.  
+It runs entirely offline on your machine, requiring no internet connection or API keys.
 
 ## Features
 
